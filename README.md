@@ -36,11 +36,3 @@ Welcome to the YouTube Playlist Downloader! This application allows you to easil
 ![Screenshot (5)](https://github.com/user-attachments/assets/38f4d40d-6a70-4a38-b2e6-58adbd4298ab)
 ![Screenshot (6)](https://github.com/user-attachments/assets/6df1fc83-0201-439a-b657-c175bcb8ccb9)
 ![Screenshot (7)](https://github.com/user-attachments/assets/e85f1fb6-3ed4-4c8b-901a-784529e6aa59)
-
-
-
-
-
-# Feedback
-Your feedback is valuable! Please click the 'Give Feedback' button within the app to submit your feedback via the Google Form.
-**https://docs.google.com/forms/d/e/1FAIpQLScSDWxL-wOMjgA9p9LF1c_XXeomwI45-WLxkCKUGJfgoAhtwA/viewform?usp=sf_link**
