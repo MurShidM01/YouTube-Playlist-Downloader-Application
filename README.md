@@ -133,22 +133,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🎴 Screenshots
 
 <div align="center">
-  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20223814.png" alt="Main Interface" width="800" height="500">
+  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20223814.png" alt="Main Interface" width="800" height="900">
   <p><em>Main Application Interface</em></p>
 
-  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20223905.png" alt="Download Settings" width="800" height="500">
+  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20223905.png" alt="Download Settings" width="800" height="900">
   <p><em>Download Settings and Configuration</em></p>
 
-  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20223932.png" alt="Progress Tracking" width="800" height="500">
+  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20223932.png" alt="Progress Tracking" width="800" height="900">
   <p><em>Download Progress Tracking</em></p>
 
-  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20223958.png" alt="Quality Selection" width="800" height="500">
+  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20223958.png" alt="Quality Selection" width="800" height="900">
   <p><em>Quality Selection Interface</em></p>
 
-  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20224030.png" alt="Format Options" width="800" height="500">
+  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20224030.png" alt="Format Options" width="800" height="900">
   <p><em>Format Selection Options</em></p>
 
-  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20224118.png" alt="Completion View" width="800" height="500">
+  <img src="https://github.com/MurShidM01/YouTube-Playlist-Downloader-Application/blob/main/ScreenShots/Screenshot%202025-03-23%20224118.png" alt="Completion View" width="800" height="900">
   <p><em>Download Completion View</em></p>
 </div>
 
